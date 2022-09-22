@@ -1,0 +1,12 @@
+.env
+.gitignore
+.git
+.github
+deployments
+.env.example
+LICENSE
+README.md
+Makefile
+# binary
+infura
+Loadtest.docx
