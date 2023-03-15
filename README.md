@@ -90,8 +90,7 @@ Transfer/sec:      3.14MB
 ```
 
 ### TODOs
-Since the time was over (~6hrs), I couldn't finish all the list I would like to do, 
-here the pending stuff:
+Here the pending stuff:
 - Add swagger.json to restful api.
 - Add structured logger to forward everything to stout.
 - Deploy nginx as webserver with modsecurity and CRS (https://coreruleset.org/) to have a WAF in front of our service.
